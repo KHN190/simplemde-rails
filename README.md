@@ -16,7 +16,7 @@ And then execute:
 
 ## Usage
 
-```
+```HTML
 <link rel="stylesheet" href="assets/simplemde.min.css">
 <script src="assets/simplemde.min.js"></script>
 ```
