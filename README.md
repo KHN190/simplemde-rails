@@ -16,6 +16,10 @@ And then execute:
 
     $ bundle install
 
+In root directory:
+
+    $ rails g simplemde:install
+
 ## Usage
 
 ```HTML
