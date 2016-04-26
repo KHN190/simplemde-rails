@@ -7,16 +7,12 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'simplemde-rails'
+gem 'simplemde-rails', :git => 'https://github.com/KHN190/simplemde-rails'
 ```
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install simplemde-rails
+    $ bundle install
 
 ## Usage
 
