@@ -1,4 +1,6 @@
-# Simplemde::Rails
+[![Gem Version](https://badge.fury.io/rb/simplemde-rails.svg)](https://badge.fury.io/rb/simplemde-rails)
+
+# Simplemde-Rails
 
 [Simplemde markdown editor](https://github.com/NextStepWebs/simplemde-markdown-editor).
 
