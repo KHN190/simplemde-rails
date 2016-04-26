@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'simplemde-rails', :git => 'https://github.com/KHN190/simplemde-rails'
+gem 'simplemde-rails'
 ```
 
 And then execute:
