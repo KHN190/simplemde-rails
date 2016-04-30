@@ -27,6 +27,22 @@ In root directory:
 <script src="assets/simplemde.min.js"></script>
 ```
 
+### Scripts
+
+You can also include them in `application.js` like:
+
+```
+//= require simplemde.min
+```
+
+### SASS/SCSS
+
+The best solution is convert [css to sass](http://css2sass.herokuapp.com/) and inlcude them in `application.scss`:
+
+```sass
+@import "simplemde.min";
+```
+
 ## Quick start
 
 After installing, load SimpleMDE on the first textarea on a page
