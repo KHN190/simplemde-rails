@@ -2,7 +2,7 @@
 
 # Simplemde-Rails
 
-[Simplemde markdown editor](https://github.com/NextStepWebs/simplemde-markdown-editor).
+[Simplemde markdown editor](https://github.com/sparksuite/simplemde-markdown-editor).
 
 ## Install
 
