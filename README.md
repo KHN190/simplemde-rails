@@ -4,6 +4,9 @@
 
 [Simplemde markdown editor](https://github.com/sparksuite/simplemde-markdown-editor).
 
+# Notice 
+This was a personal project to test how to build a gem, before a long time ago... For anyone who really concerns about using Simple-MDE, just go to their repo, download the latest minified JS, put it under `app/assets/javascript` then initialize editor in your view. No gem required. Thanks for your visit!
+
 ## Install
 
 Add this line to your application's Gemfile:
